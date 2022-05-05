@@ -1,24 +1,8 @@
 # README
+Installation :
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+bundle install
+rails db:seed #To create a random database
+rails c #To browse the database
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a ruby on rails program with exercices made for The Hacking Project Developer formation.
